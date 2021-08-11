@@ -1,0 +1,44 @@
+#portfolionavbar{
+    background-color: #292929;
+    color: white;
+    // height: 80px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+
+}
+
+// #portfolionavbar ul{
+//     display: flex;
+//     align-items: center;
+//     justify-content: center;
+// }
+#portfolionavbar ul li{
+    padding: 0px 10px;
+    
+}
+
+
+.navprofile img{
+    width: 60px;
+    height: 60px;
+    filter: grayscale(1);
+}
+.navprofile span{
+    color: white;
+    white-space: nowrap;
+}
+
+.navdropdown{
+    // border: 1px solid;
+    border-left: 1px solid white;
+   
+}
+.navdropdown img{
+    width: 15px;
+    height: 15px;
+}
+
+
+.navpopup{
+    background-color: black;
+    border-radius: 10px;
+}
